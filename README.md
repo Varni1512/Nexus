@@ -9,7 +9,6 @@ Nexus is a React-based AI voice assistant that processes voice commands to perfo
 - 🌐 **Open Websites** - Automatically opens popular sites like Instagram, Facebook, YouTube, etc.
 - 🎵 **Play Music** - Searches and plays songs on YouTube Music.
 - 🔎 **Google Search** - Performs a Google search based on voice input.
-- ❌ **Mute/Unmute** - Toggle voice responses.
 - 🛠 **Error Handling** - Detects and displays errors if voice recognition is unsupported.
 
 ## 🛠 Tech Stack
@@ -57,10 +56,6 @@ npm start
 | "Search for AI trends"  | Performs a Google search |
 | "Thank you"             | Stops listening and responds politely |
 
-## 📷 Screenshots
-
-![VoiceMate UI](![image](https://github.com/user-attachments/assets/543a5334-419c-4b38-9d8c-4f6a51118f5b)
-)
 
 ## 🐛 Known Issues
 
@@ -88,5 +83,5 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-For any queries, reach out to [your-email@example.com] or connect on [LinkedIn](https://linkedin.com/in/your-profile).
+For any queries, reach out to [varnikumarp@gmail.com] or connect on [LinkedIn](https://linkedin.com/in/varnikumarpatel).
 
